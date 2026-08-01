@@ -24,6 +24,5 @@ public class switchstatement {
                 System.out.println("Sunday");
                 break;
         }
-
     }
 }

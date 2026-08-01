@@ -45,5 +45,6 @@ public class simplecalculator {
                 System.out.println("Invalid Operator Entered!! Try Again");
                 break;
         }
+        sc.close();
     }
 }
