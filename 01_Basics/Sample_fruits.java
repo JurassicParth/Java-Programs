@@ -20,7 +20,7 @@ class Grape {
   }
 }
 
-public class Sample {
+public class Sample_fruits {
   public static void main(String[] args) {
     Mango Fruit1 = new Mango();
     Apple Fruit2 = new Apple();
