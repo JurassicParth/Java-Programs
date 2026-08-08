@@ -4,7 +4,7 @@ import java.util.*;
 
 class merge {
   public static void main(String args[]) {
-    int i, n, m, p, pos;
+    int i, n, m, p;
 
     Scanner sc = new Scanner(System.in);
 
