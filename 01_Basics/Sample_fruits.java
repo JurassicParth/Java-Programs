@@ -1,9 +1,9 @@
 // A sample program to create different objects through methods
 class Mango {
-    public void Season() {
-      System.out.println("Mango is the king of fruits");
-      System.out.println("It is available during Summer season");
-    }
+  public void Season() {
+    System.out.println("Mango is the king of fruits");
+    System.out.println("It is available during Summer season");
+  }
 }
 
 class Apple {
@@ -25,7 +25,7 @@ public class Sample_fruits {
     Mango Fruit1 = new Mango();
     Apple Fruit2 = new Apple();
     Grape Fruit3 = new Grape();
-    
+
     Fruit1.Season();
     System.out.println();
     Fruit2.Season();
