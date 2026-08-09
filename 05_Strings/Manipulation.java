@@ -4,7 +4,7 @@ public class Manipulation {
     String a = "akash";
     String b = "conputer";
     String c = "  easy understanding  ";
-    Srting d1 = "Information Technology";
+    String d1 = "Information Technology";
     String d2 = "Information Technology";
     String e = "kumar";
     System.out.println("Upper-Case of akash = "+a.toUpperCase());
